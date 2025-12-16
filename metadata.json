@@ -1,0 +1,7 @@
+{
+  "name": "VMShop Premium",
+  "description": "A high-end, glassmorphism-styled food delivery application with VM Brasil branding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
